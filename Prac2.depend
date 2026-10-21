@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1792585435 source:c:\users\combr\dropbox\nwu\reii\prac2\prac2\main.c
+	<mcs51/8051.h>
+	"Driver_SPI.h"
+	"Timers.h"
+	"Ports.h"
+	"Serial_Port.h"
+	"main.h"
+
+1792058499 source:c:\users\combr\dropbox\nwu\reii\prac2\prac2\driver_spi.c
+	"Driver_SPI.h"
+
+1792055711 c:\users\combr\dropbox\nwu\reii\prac2\prac2\driver_spi.h
+	<mcs51/8051.h>
+
+1792081075 source:c:\users\combr\dropbox\nwu\reii\prac2\prac2\ports.c
+	"Ports.h"
+	<mcs51/8051.h>
+
+1792061124 c:\users\combr\dropbox\nwu\reii\prac2\prac2\ports.h
+
+1792584575 source:c:\users\combr\dropbox\nwu\reii\prac2\prac2\timers.c
+	<mcs51/8051.h>
+	"Timers.h"
+	"Serial_Port.h"
+
+1792582887 c:\users\combr\dropbox\nwu\reii\prac2\prac2\timers.h
+	<mcs51/8051.h>
+
+1792587920 c:\users\combr\dropbox\nwu\reii\prac2\prac2\serial_port.h
+
+1792587902 source:c:\users\combr\dropbox\nwu\reii\prac2\prac2\serial_port.c
+	"Serial_Port.h"
+	<mcs51/8051.h>
+
+1792584074 c:\users\combr\dropbox\nwu\reii\prac2\prac2\main.h
+
